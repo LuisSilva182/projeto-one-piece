@@ -47,7 +47,7 @@
     }
 
     .conteudo {
-        top: -40%;
+        top: -45%;
     }
 
     .conteudo .nome-personagem {
@@ -62,7 +62,7 @@
     }
 
     .botoes .botao img {
-        max-width: 28px;
+        max-width: 25px;
         
     }
 }
